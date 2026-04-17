@@ -126,7 +126,7 @@ npm run dev
 - Undo/redo history
 - Server-side image processing for large files
 
-**Built with ❤️ using React 18 + Canvas API**
+
 
 ---
 
