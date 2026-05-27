@@ -127,8 +127,5 @@ npm run dev
 - Server-side image processing for large files
 
 
-
----
-
 *Tested on Chrome/Firefox/Safari. Works with JPG, PNG, WebP images up to 10MB.*
 
