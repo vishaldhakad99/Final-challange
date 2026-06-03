@@ -4,6 +4,7 @@ A full-stack image editing application built with **React** (frontend) and **Nod
 
 ## ✨ Features
 
+
 - **Image Upload**: Drag & drop or file select
 - **Real-time Filters**: Brightness, Contrast, Saturation (0-200%)
 - **Transformations**: Rotate left/right (±90°), Flip horizontal/vertical
